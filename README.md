@@ -1,12 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Anomaly detection in large-scale network traffic as an AIML Developer Intern at Advantal Technologies, focusing on BGP (Border Gateway Protocol) data<br><br>Designing and training LSTM Autoencoder models for sequential anomaly detection<br><br>Building and deploying FastAPI-based data pipelines integrated with PostgreSQL for model monitoring and analytics<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning and Deep Learning projects, especially in anomaly detection, fraud detection, and time-series data<br><br>AI projects involving real-world datasets, model optimization, and production-ready ML systems<br><br>Open-source or research-oriented work in AI/ML, NLP, or applied deep learning<br><br>🤝 I’m looking for help with<br><br>Advanced deep learning architectures for time-series and sequential data<br><br>Improving model robustness, drift detection, and scalability in production ML systems<br><br>Gaining deeper hands-on exposure to PyTorch and large-scale ML deployment practices<br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning and Deep Learning concepts<br><br>Practical implementation of LLM fundamentals<br><br>Model evaluation strategies for highly imbalanced datasets<br><br>Docker-based workflows for ML deployment<br><br>💬 Ask me about<br><br>Anomaly detection using LSTM Autoencoders and XGBoost<br><br>Handling class imbalance in large datasets (fraud detection use cases)<br><br>End-to-end ML pipelines: EDA → Feature Engineering → Model Training → API Deployment<br><br>FastAPI, PostgreSQL integration, and ML project structuring
+# 👋 Hi, I'm Abhishek Parita  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-parita-55b24624a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9sVhmAWrRUafAMQZeADwxg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek13parita25@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+AI/ML Engineer focused on **anomaly detection, time-series modeling, and production ML systems**.  
+Currently working on **real-time BGP network anomaly detection** using deep learning and ensemble methods.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhishekParita&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔭 What I'm Working On  
+
+- **Large-scale BGP anomaly detection** as an AI/ML Developer Intern at **Advantal Technologies**
+- Designing **LSTM Autoencoder–based sequence models** for network traffic anomaly detection
+- Building **ensemble detection systems** (LSTM Autoencoder + Isolation Forest + rule-based heuristics)
+- Implementing **model drift detection and automated retraining pipelines**
+- Developing **FastAPI-based ML services** integrated with **PostgreSQL** for monitoring and analytics
+
+---
+
+## 👯 Open to Collaborate On  
+
+- Anomaly detection (network security, fraud detection, rare-event modeling)
+- Time-series and sequential data modeling
+- Production-grade ML systems (monitoring, drift detection, retraining)
+- Research-oriented or open-source AI/ML projects
+
+---
+
+## 🤝 Looking For Help With  
+
+- Advanced deep learning architectures for time-series data  
+  (Temporal CNNs, Transformers, hybrid models)
+- Improving **robustness, false-positive control, and drift handling** in anomaly detection systems
+- Scaling ML pipelines and gaining deeper **PyTorch-first production experience**
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced Deep Learning & Time-Series Modeling
+- Practical fundamentals of **Large Language Models**
+- Evaluation strategies for **highly imbalanced datasets**
+- **Dockerized ML workflows** and model lifecycle management
+
+---
+
+## 💬 Ask Me About  
+
+- Anomaly detection using **LSTM Autoencoders, Isolation Forest, and XGBoost**
+- Handling **extreme class imbalance** (fraud detection, rare events)
+- End-to-end ML pipelines:  
+  **EDA → Feature Engineering → Model Training → API Deployment**
+- FastAPI + PostgreSQL integration for ML systems
+
+---
+
+## 💻 Tech Stack  
+
+**Languages:** Python, SQL  
+
+**ML / DL:**  
+Scikit-learn, PyTorch, TensorFlow, Keras  
+LSTM Autoencoders, XGBoost, Isolation Forest  
+
+**Backend & MLOps:**  
+FastAPI, PostgreSQL, Docker, MLflow  
+
+**Data & Visualization:**  
+Pandas, NumPy, Matplotlib, Plotly, Seaborn  
+
+**Tools:**  
+Git, GitHub  
+
+---
+
+## 🌐 Connect With Me  
+
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-parita-55b24624a  
+- **GitHub:** https://github.com/AbhishekParita  
+- **Email:** abhishek13parita25@gmail.com  
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=AbhishekParita&icon=0&color=0)
+
