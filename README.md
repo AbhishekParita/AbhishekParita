@@ -1,79 +1,65 @@
 # 👋 Hi, I'm Abhishek Parita
 
-## AI/ML Engineer | Anomaly Detection | Time-Series & Production ML Systems
+## AI/ML Engineer | Model Observability | Anomaly Detection | Production ML Systems
 
-AI/ML Engineer specializing in **anomaly detection and time-series modeling**, with hands-on experience building **production-grade machine learning systems**. Currently working as an **AI/ML Developer Intern at Advantal Technologies**, where I design and deploy **real-time BGP network anomaly detection systems** using deep learning and ensemble approaches.
+I am an AI/ML Engineer focused on architecting **resilient intelligence**. I don’t just train algorithms; I build "immune systems" for data by specializing in **anomaly detection, model drift, and explainability**. 
 
-My work focuses on **detecting rare, high-impact events in noisy, large-scale data**, with a strong emphasis on **model robustness, drift detection, and long-term reliability in production environments**.
-
----
-
-## 🔭 Current Work
-
-- Developing a **large-scale BGP network anomaly detection system** for live network traffic  
-- Designing **LSTM Autoencoder–based sequence models** for unsupervised anomaly detection  
-- Building **ensemble detection pipelines** combining deep learning models, Isolation Forest, and rule-based heuristics  
-- Implementing **model and data drift detection** with automated retraining workflows  
-- Deploying **FastAPI-based ML services** integrated with **PostgreSQL** for monitoring, analytics, and alerting  
+Currently, as an **AI/ML Developer Intern at Advantal Technologies**, I am designing real-time **BGP network anomaly detection systems** that bridge the gap between experimental research and production-grade reliability.
 
 ---
 
-## 👯 Open to Collaborate On
+## 🚀 Featured Projects (Pinned)
 
-- Anomaly detection in **network security, fraud detection, and rare-event modeling**
-- **Time-series and sequential data** modeling at scale  
-- **Production ML systems**: monitoring, drift handling, retraining, and observability  
-- Research-driven or open-source AI/ML projects with real-world impact  
+### 🛡️ [Adaptive ML Model Monitoring & Drift Detection](https://github.com/AbhishekParita/ML-Model-Drift-Failure-Detection-System)
+*Built a silent-failure detection system for production pipelines.*
+- **Core:** Implemented automated drift alerts using **KS-tests** and entropy-based behavior monitoring.
+- **Tech:** FastAPI, Python, Scikit-learn, Multi-page Monitoring Dashboards.
+
+### 💳 [Credit Scoring System with Explainability](https://github.com/AbhishekParita/Credit-Scoring-System-with-Explainability)
+*End-to-end credit risk pipeline with a focus on "Black Box" transparency.*
+- **Core:** Trained cost-sensitive XGBoost models with **SHAP/LIME** for per-user explainability and fairness auditing.
+- **Tech:** FastAPI, XGBoost, SHAP, Business Profit Simulation.
+
+### 🌐 [Real-Time BGP Anomaly Detection](https://github.com/AbhishekParita/BGP-anomaly-detection)
+*Intelligent network monitoring using ensemble deep learning.*
+- **Core:** Combined **LSTM Autoencoders** and Isolation Forests to detect route hijacks and leaks in live BGP streams.
+- **Tech:** PyTorch, PostgreSQL, TimescaleDB, Microservices Architecture.
 
 ---
 
-## 🌱 Currently Deepening Expertise In
+## 🔭 Current Work @ Advantal Technology
 
-- Advanced **time-series architectures** (Temporal CNNs, Transformers, hybrid models)  
-- **False-positive control and robustness** in anomaly detection systems  
-- Evaluation strategies for **extreme class imbalance**  
-- **Dockerized ML pipelines** and model lifecycle management  
-- Practical fundamentals of **Large Language Models**  
+- **High-Impact Event Detection:** Developing unsupervised sequence models to identify rare anomalies in noisy, large-scale network data.
+- **Automated Retraining:** Building closed-loop pipelines that trigger retraining based on detected data drift.
+- **Production Observability:** Deploying **FastAPI-based** ML services integrated with time-series databases for real-time alerting.
 
 ---
 
 ## 💻 Tech Stack
 
-**Programming:**  
-- Python, SQL  
+**ML / Deep Learning / Math:** - PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost.
+- **Specialties:** LSTM Autoencoders, SHAP (Explainable AI), Drift Detection, Time-Series.
 
-**Machine Learning / Deep Learning:**  
-- Scikit-learn, PyTorch, TensorFlow, Keras  
-- LSTM Autoencoders, XGBoost, Isolation Forest  
+**Backend & MLOps:** - FastAPI, PostgreSQL, TimescaleDB, Docker, Git.
 
-**Backend & MLOps:**  
-- FastAPI, PostgreSQL, Docker, MLflow  
-
-**Data & Visualization:**  
-- Pandas, NumPy, Matplotlib, Plotly, Seaborn  
-
-**Tools:**  
-- Git, GitHub  
+**Data & Analytics:** - Pandas, NumPy, Matplotlib, Plotly, Seaborn.
 
 ---
 
-## 💬 Ask Me About
+## 👯 Open to Collaborate On
 
-- Designing **unsupervised and semi-supervised anomaly detection systems**
-- Handling **extreme class imbalance** in real-world datasets  
-- End-to-end ML pipelines:  
-  *EDA → Feature Engineering → Model Training → Deployment → Monitoring*  
-- Building **ML APIs** with FastAPI and database-backed analytics  
+- **MLOps & Observability:** Building tools to monitor model health in real-time.
+- **Trustworthy AI:** Projects involving fairness, bias detection, and interpretability.
+- **Anomaly Detection:** Specifically in Cyber-Security, Fintech, or Industrial IoT.
 
 ---
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/abhishek-parita-55b24624a  
-- **GitHub:** https://github.com/AbhishekParita  
-- **Email:** abhishek13parita25@gmail.com  
+- **Portfolio:** [portfolio1-ecru-psi-43.vercel.app](https://portfolio1-ecru-psi-43.vercel.app/)
+- **LinkedIn:** [Abhishek Parita](https://www.linkedin.com/in/abhishek-parita-55b24624a)
+- **Email:** abhishek13parita25@gmail.com
 
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=AbhishekParita&icon=0&color=0)
-
