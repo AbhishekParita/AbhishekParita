@@ -1,65 +1,124 @@
-# 👋 Hi, I'm Abhishek Parita
+# Hi, I'm Abhishek Parita
 
-## AI/ML Engineer | Model Observability | Anomaly Detection | Production ML Systems
+## Applied AI & ML Engineer | Backend Systems | Fraud Detection | RAG Pipelines
 
-I am an AI/ML Engineer focused on architecting **resilient intelligence**. I don’t just train algorithms; I build "immune systems" for data by specializing in **anomaly detection, model drift, and explainability**. 
+I’m a final-year AIML student focused on building practical AI systems that combine machine learning, backend engineering, and production-oriented workflows.
 
-Currently, as an **AI/ML Developer Intern at Advantal Technologies**, I am designing real-time **BGP network anomaly detection systems** that bridge the gap between experimental research and production-grade reliability.
+My recent work has centered around:
+- fraud detection systems
+- ML monitoring & drift detection
+- anomaly detection pipelines
+- FastAPI-based ML services
+- RAG systems using LangChain and vector databases
 
----
+During my internship at Advantal Technologies, I worked on anomaly detection and monitoring pipelines for sequential network data, including drift-aware retraining workflows and automated alerting systems.
 
-## 🚀 Featured Projects (Pinned)
-
-### 🛡️ [Adaptive ML Model Monitoring & Drift Detection](https://github.com/AbhishekParita/ML-Model-Drift-Failure-Detection-System)
-*Built a silent-failure detection system for production pipelines.*
-- **Core:** Implemented automated drift alerts using **KS-tests** and entropy-based behavior monitoring.
-- **Tech:** FastAPI, Python, Scikit-learn, Multi-page Monitoring Dashboards.
-
-### 💳 [Credit Scoring System with Explainability](https://github.com/AbhishekParita/Credit-Scoring-System-with-Explainability)
-*End-to-end credit risk pipeline with a focus on "Black Box" transparency.*
-- **Core:** Trained cost-sensitive XGBoost models with **SHAP/LIME** for per-user explainability and fairness auditing.
-- **Tech:** FastAPI, XGBoost, SHAP, Business Profit Simulation.
-
-### 🌐 [Real-Time BGP Anomaly Detection](https://github.com/AbhishekParita/BGP-anomaly-detection)
-*Intelligent network monitoring using ensemble deep learning.*
-- **Core:** Combined **LSTM Autoencoders** and Isolation Forests to detect route hijacks and leaks in live BGP streams.
-- **Tech:** PyTorch, PostgreSQL, TimescaleDB, Microservices Architecture.
+I’m particularly interested in:
+- fintech AI
+- applied ML systems
+- backend-integrated AI workflows
+- model reliability
+- scalable intelligent systems
 
 ---
 
-## 🔭 Current Work @ Advantal Technology
+# Featured Projects
 
-- **High-Impact Event Detection:** Developing unsupervised sequence models to identify rare anomalies in noisy, large-scale network data.
-- **Automated Retraining:** Building closed-loop pipelines that trigger retraining based on detected data drift.
-- **Production Observability:** Deploying **FastAPI-based** ML services integrated with time-series databases for real-time alerting.
+## CrackIt — AI Interview Prep Platform
 
----
+Backend-driven RAG platform designed for semantic retrieval and grounded interview preparation workflows.
 
-## 💻 Tech Stack
+### Tech Stack
+FastAPI, LangChain, ChromaDB, SQLAlchemy, HuggingFace, React/Vite
 
-**ML / Deep Learning / Math:** - PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost.
-- **Specialties:** LSTM Autoencoders, SHAP (Explainable AI), Drift Detection, Time-Series.
+### Highlights
+- Built REST APIs with FastAPI and SQLAlchemy
+- Designed end-to-end RAG pipeline with vector retrieval
+- Implemented grounded response generation using retrieved context
+- Structured full backend + inference workflow
 
-**Backend & MLOps:** - FastAPI, PostgreSQL, TimescaleDB, Docker, Git.
-
-**Data & Analytics:** - Pandas, NumPy, Matplotlib, Plotly, Seaborn.
-
----
-
-## 👯 Open to Collaborate On
-
-- **MLOps & Observability:** Building tools to monitor model health in real-time.
-- **Trustworthy AI:** Projects involving fairness, bias detection, and interpretability.
-- **Anomaly Detection:** Specifically in Cyber-Security, Fintech, or Industrial IoT.
+🔗 GitHub: https://github.com/AbhishekParita/CrackIt
 
 ---
 
-## 🌐 Connect With Me
+## Large-Scale Financial Fraud Detection
 
-- **Portfolio:** [portfolio1-ecru-psi-43.vercel.app](https://portfolio1-ecru-psi-43.vercel.app/)
-- **LinkedIn:** [Abhishek Parita](https://www.linkedin.com/in/abhishek-parita-55b24624a)
-- **Email:** abhishek13parita25@gmail.com
+ML pipeline for detecting rare fraud events in highly imbalanced financial transaction datasets.
+
+### Tech Stack
+Python, XGBoost, Scikit-learn, Pandas
+
+### Highlights
+- Trained on 6.3M+ transactions with 0.13% fraud rate
+- Optimized Recall and PR-AUC for cost-sensitive fraud detection
+- Applied imbalance-aware learning and threshold tuning
+
+🔗 GitHub: [Add Link]
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=AbhishekParita&icon=0&color=0)
+## ML Monitoring & Drift Detection System
+
+Monitoring framework for identifying model drift and prediction instability in live ML systems.
+
+### Tech Stack
+FastAPI, SQLite, Jinja2, Scikit-learn
+
+### Highlights
+- Implemented drift detection using KS-test and Chi-Square methods
+- Built alert-driven monitoring workflows
+- Visualized prediction confidence and drift metrics through dashboard interfaces
+
+🔗 GitHub: https://github.com/AbhishekParita/ML-Model-Drift-Failure-Detection-System
+
+---
+
+# Tech Stack
+
+## Languages
+- Python
+- SQL
+
+## ML / AI
+- Scikit-learn
+- XGBoost
+- SHAP
+- Isolation Forest
+- LSTM Autoencoders
+- Drift Detection
+
+## LLMs & RAG
+- LangChain
+- ChromaDB
+- Sentence Transformers
+- HuggingFace Inference API
+
+## Backend & APIs
+- FastAPI
+- SQLAlchemy
+- REST APIs
+- SQLite
+- Pydantic
+
+## Tools
+- Git
+- Docker
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+# Currently Exploring
+- scalable ML systems
+- retrieval pipelines
+- backend-integrated AI workflows
+- model monitoring & reliability engineering
+
+---
+
+# Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abhishek-parita-55b24624a
+- Portfolio: https://portfolio1-ecru-psi-43.vercel.app/
+- Email: abhishek13parita25@gmail.com
