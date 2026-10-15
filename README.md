@@ -1,124 +1,86 @@
 # Hi, I'm Abhishek Parita
 
-## Applied AI & ML Engineer | Backend Systems | Fraud Detection | RAG Pipelines
+### Applied AI & ML Engineer | FinTech AI | ML Systems | RAG & Backend Engineering
 
-I’m a final-year AIML student focused on building practical AI systems that combine machine learning, backend engineering, and production-oriented workflows.
+I'm a recent B.Tech graduate in Artificial Intelligence & Machine Learning, interested in building practical AI systems that connect machine learning, financial risk analysis, and backend engineering.
 
-My recent work has centered around:
-- fraud detection systems
-- ML monitoring & drift detection
-- anomaly detection pipelines
-- FastAPI-based ML services
-- RAG systems using LangChain and vector databases
+During my internship at **Advantal Technologies**, I worked on anomaly detection and monitoring pipelines for sequential network data, including drift-aware retraining workflows and automated alerting.
 
-During my internship at Advantal Technologies, I worked on anomaly detection and monitoring pipelines for sequential network data, including drift-aware retraining workflows and automated alerting systems.
-
-I’m particularly interested in:
-- fintech AI
-- applied ML systems
-- backend-integrated AI workflows
-- model reliability
-- scalable intelligent systems
+I'm especially interested in **FinTech AI, fraud and risk analytics, LLM-powered applications, and reliable ML systems**.
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## CrackIt — AI Interview Prep Platform
+### FinGuard AI — Financial Intelligence & Risk Analysis
 
-Backend-driven RAG platform designed for semantic retrieval and grounded interview preparation workflows.
+A local financial-intelligence demo combining a browser dashboard, FastAPI backend, deterministic Python analytics, and ML-based transaction risk scoring.
 
-### Tech Stack
-FastAPI, LangChain, ChromaDB, SQLAlchemy, HuggingFace, React/Vite
+- Explores synthetic client profiles, transactions, portfolios, and market data.
+- Uses a saved scikit-learn model to score transactions and flag records for review.
+- Includes SHAP feature contributions, specialist-style question workflows, and locally calculated financial figures.
+- Tracks training experiments with MLflow and includes pytest-based GitHub Actions CI.
+- Built as a local demo using synthetic data; the model is not a validated fraud detector.
 
-### Highlights
-- Built REST APIs with FastAPI and SQLAlchemy
-- Designed end-to-end RAG pipeline with vector retrieval
-- Implemented grounded response generation using retrieved context
-- Structured full backend + inference workflow
+**Tech:** Python, scikit-learn, FastAPI, SQLite, SHAP, MLflow, pytest, Node.js
 
-🔗 GitHub: https://github.com/AbhishekParita/CrackIt
+🔗 [GitHub Repository](https://github.com/AbhishekParita/FinGuard-AI)
 
----
+### CrackIt — AI Interview Preparation Platform
 
-## Large-Scale Financial Fraud Detection
+A backend-driven RAG application for semantic retrieval and grounded interview-preparation workflows.
 
-ML pipeline for detecting rare fraud events in highly imbalanced financial transaction datasets.
+- Built REST APIs using FastAPI and SQLAlchemy.
+- Designed a retrieval pipeline using LangChain, embeddings, and ChromaDB.
+- Connected retrieval and response generation in an end-to-end application.
 
-### Tech Stack
-Python, XGBoost, Scikit-learn, Pandas
+**Tech:** FastAPI, LangChain, ChromaDB, SQLAlchemy, Hugging Face, React/Vite
 
-### Highlights
-- Trained on 6.3M+ transactions with 0.13% fraud rate
-- Optimized Recall and PR-AUC for cost-sensitive fraud detection
-- Applied imbalance-aware learning and threshold tuning
+🔗 [GitHub Repository](https://github.com/AbhishekParita/CrackIt)
 
-🔗 GitHub: [Add Link]
+### Large-Scale Financial Fraud Detection
 
----
+A machine-learning project focused on rare fraud events in highly imbalanced transaction data.
 
-## ML Monitoring & Drift Detection System
+- Worked with a dataset of 6.3M+ transactions and a reported fraud rate of 0.13%.
+- Focused on recall, PR-AUC, class imbalance, and decision-threshold tuning for cost-sensitive detection.
 
-Monitoring framework for identifying model drift and prediction instability in live ML systems.
+**Tech:** Python, XGBoost, scikit-learn, Pandas
 
-### Tech Stack
-FastAPI, SQLite, Jinja2, Scikit-learn
+### ML Model Monitoring & Drift Detection
 
-### Highlights
-- Implemented drift detection using KS-test and Chi-Square methods
-- Built alert-driven monitoring workflows
-- Visualized prediction confidence and drift metrics through dashboard interfaces
+A monitoring framework for identifying distribution shifts and prediction instability in ML workflows.
 
-🔗 GitHub: https://github.com/AbhishekParita/ML-Model-Drift-Failure-Detection-System
+- Implemented statistical drift checks using KS-test and Chi-Square methods.
+- Built alert-driven monitoring flows and dashboard views for drift and prediction-confidence metrics.
 
----
+**Tech:** FastAPI, SQLite, Jinja2, scikit-learn
 
-# Tech Stack
-
-## Languages
-- Python
-- SQL
-
-## ML / AI
-- Scikit-learn
-- XGBoost
-- SHAP
-- Isolation Forest
-- LSTM Autoencoders
-- Drift Detection
-
-## LLMs & RAG
-- LangChain
-- ChromaDB
-- Sentence Transformers
-- HuggingFace Inference API
-
-## Backend & APIs
-- FastAPI
-- SQLAlchemy
-- REST APIs
-- SQLite
-- Pydantic
-
-## Tools
-- Git
-- Docker
-- Pandas
-- NumPy
-- Matplotlib
+🔗 [GitHub Repository](https://github.com/AbhishekParita/ML-Model-Drift-Failure-Detection-System)
 
 ---
 
-# Currently Exploring
-- scalable ML systems
-- retrieval pipelines
-- backend-integrated AI workflows
-- model monitoring & reliability engineering
+## Technical Skills
+
+- **Languages:** Python, SQL
+- **Machine Learning:** scikit-learn, XGBoost, SHAP, anomaly detection, model evaluation
+- **LLMs & RAG:** LangChain, ChromaDB, Sentence Transformers, Hugging Face Inference API
+- **Backend & Data:** FastAPI, REST APIs, SQLAlchemy, SQLite, Pydantic, Pandas, NumPy
+- **Experiment Tracking & Workflow:** MLflow, Git, GitHub Actions, Docker
 
 ---
 
-# Connect With Me
+## Currently Exploring
 
-- LinkedIn: https://www.linkedin.com/in/abhishek-parita-55b24624a
-- Portfolio: https://portfolio1-ecru-psi-43.vercel.app/
-- Email: abhishek13parita25@gmail.com
+- FinTech risk and transaction intelligence
+- AI assistants grounded in deterministic tools and retrieved evidence
+- Model evaluation, experiment tracking, and reliable ML deployment
+- Backend systems for applied AI
+
+---
+
+## Connect
+
+- **LinkedIn:** [abhishek-parita](https://www.linkedin.com/in/abhishek-parita-55b24624a)
+- **Portfolio:** [View my portfolio](https://portfolio1-ecru-psi-43.vercel.app/)
+- **Email:** [abhishek13parita25@gmail.com](mailto:abhishek13parita25@gmail.com)
